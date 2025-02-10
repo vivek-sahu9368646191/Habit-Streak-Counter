@@ -1,0 +1,4 @@
+This Daily Habit Tracker allows users to add, track, and manage their daily habits, marking them as completed, resetting streaks, or removing them.
+It maintains habit streaks, checks for missed days, and includes a progress bar to visualize completion status, with data stored in localStorage for persistence.
+To run the project, download or clone the repository, then open the index.html file in a modern web browser. Modify styles in styles.css and functionality in script.js as needed. 
+The tracker works best on modern browsers with JavaScript enabled, requiring no additional dependencies or backend setup.
